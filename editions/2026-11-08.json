@@ -1,10 +1,12 @@
 {
-  "brand": "The AI Brief",
-  "handle": "@theaibrief",
+  "brand": "AI News Brief",
+  "org": "Social Co-Lab",
+  "handle": "Social Co-Lab",
   "issue": 1,
   "date": "2026-11-08",
   "week_label": "Week of Nov 2–8, 2026",
-  "cover_title": "5 AI stories you need to know this week",
+  "cover_title_pre": "5 AI stories you need to know",
+  "cover_title_gold": "this week",
   "stories": [
     {
       "category": "Policy",

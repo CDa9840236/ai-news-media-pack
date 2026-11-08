@@ -1,4 +1,4 @@
-# The AI Brief: Issue #1 (Week of Nov 2–8, 2026)
+# AI News Brief by Social Co-Lab: Issue #1 (Week of Nov 2–8, 2026)
 
 ## Instagram / LinkedIn carousel caption
 
@@ -10,9 +10,9 @@
 4. Data centers lose at the ballot box
 5. Thinking Machines Lab nears a $5B raise
 
-Swipe for the details, and follow @theaibrief for a new brief every week.
+Swipe for the details, and follow Social Co-Lab for a new brief every week.
 
-#AI #ArtificialIntelligence #AINews #Tech #FutureOfWork
+#AI #AINews #ArtificialIntelligence #SocialCoLab #Tech
 
 ## X / Threads thread
 
@@ -28,19 +28,19 @@ Swipe for the details, and follow @theaibrief for a new brief every week.
 
 **6/** Thinking Machines Lab nears a $5B raise. Mira Murati's startup is reportedly closing a $5B round led by Accel at a $40B pre-money valuation, and shipped its Inkling 2 Small model this week. Investors are still writing huge checks for frontier-lab challengers.
 
-**7/** That's the week. Follow @theaibrief for next week's brief.
+**7/** That's the week. Follow Social Co-Lab for next week's brief.
 
 ## Per-story captions (for the landscape and story images)
 
-**01: Policy.** The DOJ launches a Super Intelligence Task Force. AI misuse is now a federal enforcement priority, not just a policy debate. #AI #ArtificialIntelligence #AINews #Tech #FutureOfWork
+**01: Policy.** The DOJ launches a Super Intelligence Task Force. AI misuse is now a federal enforcement priority, not just a policy debate. #AI #AINews #ArtificialIntelligence #SocialCoLab #Tech
 
-**02: Funding.** OpenAI's mega-round lands below its target. Even the biggest names in AI are meeting tougher investors. #AI #ArtificialIntelligence #AINews #Tech #FutureOfWork
+**02: Funding.** OpenAI's mega-round lands below its target. Even the biggest names in AI are meeting tougher investors. #AI #AINews #ArtificialIntelligence #SocialCoLab #Tech
 
-**03: Enterprise.** Big companies start rationing AI tools. The "unlimited AI" era inside companies is giving way to budgets. #AI #ArtificialIntelligence #AINews #Tech #FutureOfWork
+**03: Enterprise.** Big companies start rationing AI tools. The "unlimited AI" era inside companies is giving way to budgets. #AI #AINews #ArtificialIntelligence #SocialCoLab #Tech
 
-**04: Infrastructure.** Data centers lose at the ballot box. Power and land for AI are becoming a local political fight. #AI #ArtificialIntelligence #AINews #Tech #FutureOfWork
+**04: Infrastructure.** Data centers lose at the ballot box. Power and land for AI are becoming a local political fight. #AI #AINews #ArtificialIntelligence #SocialCoLab #Tech
 
-**05: Funding.** Thinking Machines Lab nears a $5B raise. Investors are still writing huge checks for frontier-lab challengers. #AI #ArtificialIntelligence #AINews #Tech #FutureOfWork
+**05: Funding.** Thinking Machines Lab nears a $5B raise. Investors are still writing huge checks for frontier-lab challengers. #AI #AINews #ArtificialIntelligence #SocialCoLab #Tech
 
 ## Sources (check them before you post)
 
