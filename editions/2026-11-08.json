@@ -1,0 +1,86 @@
+{
+  "brand": "The AI Brief",
+  "handle": "@theaibrief",
+  "issue": 1,
+  "date": "2026-11-08",
+  "week_label": "Week of Nov 2–8, 2026",
+  "cover_title": "5 AI stories you need to know this week",
+  "stories": [
+    {
+      "category": "Policy",
+      "stat": "DOJ-SITF",
+      "stat_label": "new federal AI unit",
+      "headline": "The DOJ launches a Super Intelligence Task Force",
+      "summary": "The unit will police misuse of advanced AI by foreign governments, criminal groups and fraudsters, and push AI developers to tighten internal controls and risk reporting.",
+      "why": "AI misuse is now a federal enforcement priority, not just a policy debate.",
+      "sources": [
+        "Nextgov",
+        "Decrypt"
+      ],
+      "urls": [
+        "https://www.nextgov.com/artificial-intelligence/2026/11/department-justice-forms-ai-task-force/417074/",
+        "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse"
+      ]
+    },
+    {
+      "category": "Funding",
+      "stat": "$1.25T",
+      "stat_label": "reported valuation",
+      "headline": "OpenAI's mega-round lands below its target",
+      "summary": "Reports say OpenAI's new round is priced around $1.25 trillion, down from the $1.4–1.5 trillion it reportedly sought, with about $11B in early commitments.",
+      "why": "Even the biggest names in AI are meeting tougher investors.",
+      "sources": [
+        "Digg / press reports",
+        "TechJuice"
+      ],
+      "urls": [
+        "https://digg.com/tech/owqj0pvs",
+        "https://www.techjuice.pk/?p=259256"
+      ]
+    },
+    {
+      "category": "Enterprise",
+      "stat": "−33%",
+      "stat_label": "Apple's daily AI cap for some engineers",
+      "headline": "Big companies start rationing AI tools",
+      "summary": "Apple reportedly cut daily AI spending caps for some engineers, and Goldman Sachs pulled AI coding tools from traders and bankers, citing productivity and risk.",
+      "why": "The \"unlimited AI\" era inside companies is giving way to budgets.",
+      "sources": [
+        "AI Weekly",
+        "press reports"
+      ],
+      "urls": [
+        "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+      ]
+    },
+    {
+      "category": "Infrastructure",
+      "stat": "38 of 39",
+      "stat_label": "local votes won by opponents",
+      "headline": "Data centers lose at the ballot box",
+      "summary": "One tracker counts data center opponents winning 38 of 39 fully counted local measures in this week's elections.",
+      "why": "Power and land for AI are becoming a local political fight.",
+      "sources": [
+        "AI Weekly tracker"
+      ],
+      "urls": [
+        "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+      ]
+    },
+    {
+      "category": "Funding",
+      "stat": "$5B",
+      "stat_label": "reported round size",
+      "headline": "Thinking Machines Lab nears a $5B raise",
+      "summary": "Mira Murati's startup is reportedly closing a $5B round led by Accel at a $40B pre-money valuation, and shipped its Inkling 2 Small model this week.",
+      "why": "Investors are still writing huge checks for frontier-lab challengers.",
+      "sources": [
+        "AI Weekly",
+        "press reports"
+      ],
+      "urls": [
+        "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+      ]
+    }
+  ]
+}
